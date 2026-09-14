@@ -1,0 +1,5 @@
+.env
+tracker.db
+reports/*.md
+__pycache__/
+*.pyc
